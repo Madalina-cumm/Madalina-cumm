@@ -1,10 +1,10 @@
 # About me
 
-👋 Hi! Sunt UI/UX Designe și Web Developer p
+👋 Salut! Sunt **UI/UX Designer** și **Web Developer** pasionat de experiențe digitale intuitive și estetice.
 
 ## 🔧 Skills
 - 🎨 Design UI/UX (Figma, Adobe XD, Sketch)
-- 💻 Web Development (HTML, CSS, JavaScript/PHP, React)
+- 💻 Web Development (HTML, CSS, JavaScript, React)
 - ⚡ Optimizare și automatizare pentru proiecte web
 - 📱 Responsive design și accesibilitate
 
