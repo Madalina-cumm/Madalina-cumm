@@ -1,16 +1,17 @@
-## Hi there 👋
+# About me
 
-<!--
-**Madalina-cumm/Madalina-cumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! Sunt UI/UX Designe și Web Developer p
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- 🎨 Design UI/UX (Figma, Adobe XD, Sketch)
+- 💻 Web Development (HTML, CSS, JavaScript/PHP, React)
+- ⚡ Optimizare și automatizare pentru proiecte web
+- 📱 Responsive design și accesibilitate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Interests
+- Crearea de interfețe prietenoase și estetice
+- Experimentarea cu animații și micro-interacțiuni
+- Îmbinarea designului creativ cu codul robust
+
+## 🎯 Fun fact
+Îmi place să transform ideile complexe în soluții simple și elegante.
